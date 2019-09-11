@@ -1,0 +1,4 @@
+The first project I should create a tribute page. The instructions say that we should use just ID's in the tags.
+So my HTML file is with just ID's names and not CLASSES name, as my CSS file as well because that was one of the
+requirements from the project. Another requirement is to do anything simple with Javascript, so I created an ALERT
+box if the user wants more information about the person in the Tribute Page.
